@@ -1,0 +1,28 @@
+passwords:
+hostinger:
+mail: admin@samopek.ru 12345qwerty
+ftp: u372907542 123123
+
+beget.com
+Адрес ПУА: https://cp.beget.com
+Имя пользователя: yourja1z
+Пароль: wr2h9Yxw
+Сервер: vader1
+
+
+FTP:
+yourja1z_1
+12345qwert
+
+FTP_samopek.ru
+yourja1z_2
+123qwe123
+
+Mail: admin 123123123
+
+
+yandex.ru
+evgenia.kochukova.v
+
+admin@samopek.ru
+123qwe123qwe	
